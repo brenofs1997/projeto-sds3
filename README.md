@@ -7,7 +7,7 @@
 
 🌎 **Acesse agora:**
 
-<a href="https://ds3-dsvendas.netlify.app" target="_blank" title="acessar o site"><strong>ds3-dsvendas.netlify.app</strong></a>
+<a href="https://brenofs-dsvendas.netlify.app" target="_blank" title="acessar o site"><strong>brenofs-dsvendas.netlify.app</strong></a>
 
 <br />
 
